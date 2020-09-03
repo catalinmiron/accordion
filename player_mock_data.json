@@ -1,0 +1,702 @@
+[
+  {
+      "type": "live_player",
+      "content": {
+          "playlist_url": "https://live-17220343.clipmyhorse.tv/live/smil:adaptive.smil/playlist.m3u8?ectoken=PlvtVDXGbhLNkVv1K-DsZ3jFBgwWY_NWnYZEJMM_qGvTqFEwgMPUKEa-qLXCjZ2f",
+          "ad_injection_playlist_url": "https://f14653a2d92240bf81df8e9d3f476d88.mediatailor.eu-central-1.amazonaws.com/v1/master/3dc20eebc13a0d2b6d8b3fd4be8ec00319a74d12/Channel_39/playlist.m3u8?ectoken=PlvtVDXGbhLNkVv1K-DsZ3jFBgwWY_NWnYZEJMM_qGvTqFEwgMPUKEa-qLXCjZ2f"
+      }
+  },
+  {
+      "type": "cue_point_display",
+      "content": {
+          "current_cue_point": {
+              "id": {
+                  "value": "4411836"
+              },
+              "creation": {
+                  "access_user_id": null,
+                  "date": "2020-08-20T16:28:40+0000"
+              },
+              "second": null,
+              "subpart_id": {
+                  "value": "149410"
+              },
+              "horse": {
+                  "id": {
+                      "value": "5486514"
+                  },
+                  "creation": {
+                      "access_user_id": null,
+                      "date": "2020-08-20T16:28:40+0000"
+                  },
+                  "name": {
+                      "sport": "Balou's Hope CS",
+                      "breed": null
+                  },
+                  "gender": {
+                      "value": "horse_gender.stallion"
+                  },
+                  "birth_date": {
+                      "year": "2015",
+                      "birth_date": null
+                  },
+                  "iso_code": {
+                      "code": "DE 418184004115"
+                  },
+                  "fei_number": null,
+                  "horsetelex_number": null,
+                  "association_information": {
+                      "association_id": "917280",
+                      "breed_id": "235",
+                      "logo": "http://ec-storage.clipmyhorse.de/player_breed_logo/OS.jpg",
+                      "link": "http://oldenburger-pferde.net/"
+                  },
+                  "breeder": {
+                      "name": "Scherbaum,Christina",
+                      "address": " "
+                  },
+                  "breed": {
+                      "name": "Oldenburger Springpferd",
+                      "group": null
+                  },
+                  "color": {
+                      "name": "horse_color.bay"
+                  },
+                  "horse_pedigree": {
+                      "mother": null,
+                      "father": "Balou du Rouet",
+                      "mother_mother": null,
+                      "mother_father": "Cesano I",
+                      "father_mother": null,
+                      "father_father": null,
+                      "mother_mother_mother": null,
+                      "mother_mother_father": null,
+                      "mother_father_mother": null,
+                      "mother_father_father": null,
+                      "father_mother_father": null,
+                      "father_mother_mother": null,
+                      "father_father_father": null,
+                      "father_father_mother": null
+                  }
+              },
+              "rider": {
+                  "id": {
+                      "value": "ac680d3cf7ad1074eb3397f71a9d5974"
+                  },
+                  "creation": {
+                      "access_user_id": null,
+                      "date": "2020-08-20T16:28:40+0000"
+                  },
+                  "name": "Winter,Wolfgang",
+                  "club": "Pffrd. Geisenfeld e.V.",
+                  "rider_nation": {
+                      "iso_code": "DE",
+                      "flag_image": "https://assets.clipmyhorse.tv/img/player_flags/35.gif"
+                  },
+                  "top_banner": null
+              },
+              "head_number": "37",
+              "long_leader": {
+                  "name": null
+              }
+          }
+      }
+  },
+  {
+      "type": "live_title",
+      "content": {
+          "title": "Springpferdeprüfung Kl. A**",
+          "subtitle": "Springturnier Königsbrunn Gut Fohlenhof"
+      }
+  },
+  {
+      "type": "tabs",
+      "content": {
+          "title": "Prüfung Teil 2",
+          "tab": {
+              "type": "list",
+              "content": {
+                  "title": null,
+                  "items": [
+                      {
+                          "type": "competitor_card",
+                          "content": {
+                              "competitor": {
+                                  "id": {
+                                      "value": "4413092"
+                                  },
+                                  "creation": {
+                                      "access_user_id": null,
+                                      "date": "2020-08-20T16:28:40+0000"
+                                  },
+                                  "second": null,
+                                  "subpart_id": {
+                                      "value": "149431"
+                                  },
+                                  "horse": {
+                                      "id": {
+                                          "value": "5477928"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": {
+                                          "sport": "Lizzy 106",
+                                          "breed": null
+                                      },
+                                      "gender": {
+                                          "value": "horse_gender.mare"
+                                      },
+                                      "birth_date": {
+                                          "year": "2014",
+                                          "birth_date": null
+                                      },
+                                      "iso_code": {
+                                          "code": "DE 418180053314"
+                                      },
+                                      "fei_number": null,
+                                      "horsetelex_number": null,
+                                      "association_information": {
+                                          "association_id": "917280",
+                                          "breed_id": "235",
+                                          "logo": "http://ec-storage.clipmyhorse.de/player_breed_logo/OS.jpg",
+                                          "link": "http://oldenburger-pferde.net/"
+                                      },
+                                      "breeder": {
+                                          "name": "Hollenbeck,Rolf",
+                                          "address": " "
+                                      },
+                                      "breed": {
+                                          "name": "Oldenburger Springpferd",
+                                          "group": null
+                                      },
+                                      "color": {
+                                          "name": "horse_color.bay"
+                                      },
+                                      "horse_pedigree": {
+                                          "mother": null,
+                                          "father": "Lord Pizzaro",
+                                          "mother_mother": null,
+                                          "mother_father": "Quick Star",
+                                          "father_mother": null,
+                                          "father_father": null,
+                                          "mother_mother_mother": null,
+                                          "mother_mother_father": null,
+                                          "mother_father_mother": null,
+                                          "mother_father_father": null,
+                                          "father_mother_father": null,
+                                          "father_mother_mother": null,
+                                          "father_father_father": null,
+                                          "father_father_mother": null
+                                      }
+                                  },
+                                  "rider": {
+                                      "id": {
+                                          "value": "7dfd0a6744fabb7511900bc359a6cf27"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": "Paul,Stefanie",
+                                      "club": "RFV Altusried e.V.",
+                                      "rider_nation": {
+                                          "iso_code": "DE",
+                                          "flag_image": "https://assets.clipmyhorse.tv/img/player_flags/35.gif"
+                                      },
+                                      "top_banner": null
+                                  },
+                                  "head_number": "500",
+                                  "long_leader": {
+                                      "name": null
+                                  }
+                              }
+                          }
+                      },
+                      {
+                          "type": "competitor_card",
+                          "content": {
+                              "competitor": {
+                                  "id": {
+                                      "value": "4413093"
+                                  },
+                                  "creation": {
+                                      "access_user_id": null,
+                                      "date": "2020-08-20T16:28:40+0000"
+                                  },
+                                  "second": null,
+                                  "subpart_id": {
+                                      "value": "149431"
+                                  },
+                                  "horse": {
+                                      "id": {
+                                          "value": "5487405"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": {
+                                          "sport": "Baladay",
+                                          "breed": null
+                                      },
+                                      "gender": {
+                                          "value": "horse_gender.mare"
+                                      },
+                                      "birth_date": {
+                                          "year": "2014",
+                                          "birth_date": null
+                                      },
+                                      "iso_code": {
+                                          "code": "XXXC1HMS5487405"
+                                      },
+                                      "fei_number": null,
+                                      "horsetelex_number": null,
+                                      "association_information": {
+                                          "association_id": null,
+                                          "breed_id": "205",
+                                          "logo": "http://ec-storage.clipmyhorse.de/player_breed_logo/hms.jpg",
+                                          "link": ""
+                                      },
+                                      "breeder": {
+                                          "name": "de Visser,Jan",
+                                          "address": " "
+                                      },
+                                      "breed": {
+                                          "name": "Zangersheide Reitpferd",
+                                          "group": null
+                                      },
+                                      "color": {
+                                          "name": "horse_color.grey"
+                                      },
+                                      "horse_pedigree": {
+                                          "mother": null,
+                                          "father": "Bamako de Muze",
+                                          "mother_mother": null,
+                                          "mother_father": "Cento",
+                                          "father_mother": null,
+                                          "father_father": null,
+                                          "mother_mother_mother": null,
+                                          "mother_mother_father": null,
+                                          "mother_father_mother": null,
+                                          "mother_father_father": null,
+                                          "father_mother_father": null,
+                                          "father_mother_mother": null,
+                                          "father_father_father": null,
+                                          "father_father_mother": null
+                                      }
+                                  },
+                                  "rider": {
+                                      "id": {
+                                          "value": "73c18bfe0136e9361ad1de1974ecbb9b"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": "Zoller,Lisa",
+                                      "club": "RC RH Zoltingen e.V.",
+                                      "rider_nation": {
+                                          "iso_code": "DE",
+                                          "flag_image": "https://assets.clipmyhorse.tv/img/player_flags/35.gif"
+                                      },
+                                      "top_banner": null
+                                  },
+                                  "head_number": "677",
+                                  "long_leader": {
+                                      "name": null
+                                  }
+                              }
+                          }
+                      },
+                      {
+                          "type": "competitor_card",
+                          "content": {
+                              "competitor": {
+                                  "id": {
+                                      "value": "4413094"
+                                  },
+                                  "creation": {
+                                      "access_user_id": null,
+                                      "date": "2020-08-20T16:28:40+0000"
+                                  },
+                                  "second": null,
+                                  "subpart_id": {
+                                      "value": "149431"
+                                  },
+                                  "horse": {
+                                      "id": {
+                                          "value": "5487406"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": {
+                                          "sport": "Catalou",
+                                          "breed": null
+                                      },
+                                      "gender": {
+                                          "value": "horse_gender.mare"
+                                      },
+                                      "birth_date": {
+                                          "year": "2014",
+                                          "birth_date": null
+                                      },
+                                      "iso_code": {
+                                          "code": "DE 473730206414"
+                                      },
+                                      "fei_number": null,
+                                      "horsetelex_number": null,
+                                      "association_information": {
+                                          "association_id": "917325",
+                                          "breed_id": null,
+                                          "logo": "http://ec-storage.clipmyhorse.de/player_breed_logo/sueddeutsche.jpg",
+                                          "link": "http://www.suedpferde.de/"
+                                      },
+                                      "breeder": {
+                                          "name": "Gruber,Boris",
+                                          "address": " "
+                                      },
+                                      "breed": {
+                                          "name": null,
+                                          "group": null
+                                      },
+                                      "color": {
+                                          "name": "horse_color.liver_chestnut"
+                                      },
+                                      "horse_pedigree": {
+                                          "mother": null,
+                                          "father": "Christian",
+                                          "mother_mother": null,
+                                          "mother_father": "Lincolm L",
+                                          "father_mother": null,
+                                          "father_father": null,
+                                          "mother_mother_mother": null,
+                                          "mother_mother_father": null,
+                                          "mother_father_mother": null,
+                                          "mother_father_father": null,
+                                          "father_mother_father": null,
+                                          "father_mother_mother": null,
+                                          "father_father_father": null,
+                                          "father_father_mother": null
+                                      }
+                                  },
+                                  "rider": {
+                                      "id": {
+                                          "value": "b239f0904a8d35d8fff5831bb051cf36"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": "Schmuck,Edwin",
+                                      "club": "RFZV Babenhausen e.V.",
+                                      "rider_nation": {
+                                          "iso_code": "DE",
+                                          "flag_image": "https://assets.clipmyhorse.tv/img/player_flags/35.gif"
+                                      },
+                                      "top_banner": null
+                                  },
+                                  "head_number": "136",
+                                  "long_leader": {
+                                      "name": null
+                                  }
+                              }
+                          }
+                      },
+                      {
+                          "type": "competitor_card",
+                          "content": {
+                              "competitor": {
+                                  "id": {
+                                      "value": "4413095"
+                                  },
+                                  "creation": {
+                                      "access_user_id": null,
+                                      "date": "2020-08-20T16:28:40+0000"
+                                  },
+                                  "second": null,
+                                  "subpart_id": {
+                                      "value": "149431"
+                                  },
+                                  "horse": {
+                                      "id": {
+                                          "value": "5487407"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": {
+                                          "sport": "Barboor",
+                                          "breed": null
+                                      },
+                                      "gender": {
+                                          "value": "horse_gender.stallion"
+                                      },
+                                      "birth_date": {
+                                          "year": "2014",
+                                          "birth_date": null
+                                      },
+                                      "iso_code": {
+                                          "code": "DE 481810073314"
+                                      },
+                                      "fei_number": null,
+                                      "horsetelex_number": null,
+                                      "association_information": {
+                                          "association_id": "917328",
+                                          "breed_id": "226",
+                                          "logo": "http://ec-storage.clipmyhorse.de/player_breed_logo/sueddeutsche.jpg",
+                                          "link": "http://www.suedpferde.de/"
+                                      },
+                                      "breeder": {
+                                          "name": "Wenzel,Brigitte",
+                                          "address": " "
+                                      },
+                                      "breed": {
+                                          "name": "Bayer",
+                                          "group": null
+                                      },
+                                      "color": {
+                                          "name": "horse_color.brown"
+                                      },
+                                      "horse_pedigree": {
+                                          "mother": null,
+                                          "father": "Balou du Rouet",
+                                          "mother_mother": null,
+                                          "mother_father": "Carry",
+                                          "father_mother": null,
+                                          "father_father": null,
+                                          "mother_mother_mother": null,
+                                          "mother_mother_father": null,
+                                          "mother_father_mother": null,
+                                          "mother_father_father": null,
+                                          "father_mother_father": null,
+                                          "father_mother_mother": null,
+                                          "father_father_father": null,
+                                          "father_father_mother": null
+                                      }
+                                  },
+                                  "rider": {
+                                      "id": {
+                                          "value": "bd29c3ced3007a9431e0631d2aabda32"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": "Wenzel,Alexander",
+                                      "club": "PSZ Ettringen e.V.",
+                                      "rider_nation": {
+                                          "iso_code": "DE",
+                                          "flag_image": "https://assets.clipmyhorse.tv/img/player_flags/35.gif"
+                                      },
+                                      "top_banner": null
+                                  },
+                                  "head_number": "40",
+                                  "long_leader": {
+                                      "name": null
+                                  }
+                              }
+                          }
+                      },
+                      {
+                          "type": "competitor_card",
+                          "content": {
+                              "competitor": {
+                                  "id": {
+                                      "value": "4413096"
+                                  },
+                                  "creation": {
+                                      "access_user_id": null,
+                                      "date": "2020-08-20T16:28:40+0000"
+                                  },
+                                  "second": null,
+                                  "subpart_id": {
+                                      "value": "149431"
+                                  },
+                                  "horse": {
+                                      "id": {
+                                          "value": "5487408"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": {
+                                          "sport": "Odyssee van Prinseveld",
+                                          "breed": null
+                                      },
+                                      "gender": {
+                                          "value": "horse_gender.mare"
+                                      },
+                                      "birth_date": {
+                                          "year": "2071",
+                                          "birth_date": null
+                                      },
+                                      "iso_code": {
+                                          "code": "XXXC1HMS5487408"
+                                      },
+                                      "fei_number": null,
+                                      "horsetelex_number": null,
+                                      "association_information": {
+                                          "association_id": null,
+                                          "breed_id": "239",
+                                          "logo": "http://ec-storage.clipmyhorse.de/player_breed_logo/hms.jpg",
+                                          "link": ""
+                                      },
+                                      "breeder": {
+                                          "name": "Mlynkova,Katrin",
+                                          "address": " "
+                                      },
+                                      "breed": {
+                                          "name": "Belgien Warmblut",
+                                          "group": null
+                                      },
+                                      "color": {
+                                          "name": "horse_color.bay"
+                                      },
+                                      "horse_pedigree": {
+                                          "mother": null,
+                                          "father": "Cicero Z",
+                                          "mother_mother": null,
+                                          "mother_father": "Nonstop",
+                                          "father_mother": null,
+                                          "father_father": null,
+                                          "mother_mother_mother": null,
+                                          "mother_mother_father": null,
+                                          "mother_father_mother": null,
+                                          "mother_father_father": null,
+                                          "father_mother_father": null,
+                                          "father_mother_mother": null,
+                                          "father_father_father": null,
+                                          "father_father_mother": null
+                                      }
+                                  },
+                                  "rider": {
+                                      "id": {
+                                          "value": "998bcc3fa681f2650553e619b644b50e"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": "Fildebrandt,Michael",
+                                      "club": "RV Augsburg-West",
+                                      "rider_nation": {
+                                          "iso_code": "DE",
+                                          "flag_image": "https://assets.clipmyhorse.tv/img/player_flags/35.gif"
+                                      },
+                                      "top_banner": null
+                                  },
+                                  "head_number": "546",
+                                  "long_leader": {
+                                      "name": null
+                                  }
+                              }
+                          }
+                      },
+                      {
+                          "type": "competitor_card",
+                          "content": {
+                              "competitor": {
+                                  "id": {
+                                      "value": "4413097"
+                                  },
+                                  "creation": {
+                                      "access_user_id": null,
+                                      "date": "2020-08-20T16:28:40+0000"
+                                  },
+                                  "second": null,
+                                  "subpart_id": {
+                                      "value": "149431"
+                                  },
+                                  "horse": {
+                                      "id": {
+                                          "value": "5487409"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": {
+                                          "sport": "Ophelia B",
+                                          "breed": null
+                                      },
+                                      "gender": {
+                                          "value": "horse_gender.mare"
+                                      },
+                                      "birth_date": {
+                                          "year": "2014",
+                                          "birth_date": null
+                                      },
+                                      "iso_code": {
+                                          "code": "XXXC1HMS5487409"
+                                      },
+                                      "fei_number": null,
+                                      "horsetelex_number": null,
+                                      "association_information": {
+                                          "association_id": null,
+                                          "breed_id": "128",
+                                          "logo": "http://ec-storage.clipmyhorse.de/player_breed_logo/hms.jpg",
+                                          "link": ""
+                                      },
+                                      "breeder": {
+                                          "name": "Breukink,Willem",
+                                          "address": " "
+                                      },
+                                      "breed": {
+                                          "name": "Niederlande Warmblut (NRPS)",
+                                          "group": null
+                                      },
+                                      "color": {
+                                          "name": "horse_color.bay"
+                                      },
+                                      "horse_pedigree": {
+                                          "mother": null,
+                                          "father": "Obligado B",
+                                          "mother_mother": null,
+                                          "mother_father": "Gershwin",
+                                          "father_mother": null,
+                                          "father_father": null,
+                                          "mother_mother_mother": null,
+                                          "mother_mother_father": null,
+                                          "mother_father_mother": null,
+                                          "mother_father_father": null,
+                                          "father_mother_father": null,
+                                          "father_mother_mother": null,
+                                          "father_father_father": null,
+                                          "father_father_mother": null
+                                      }
+                                  },
+                                  "rider": {
+                                      "id": {
+                                          "value": "512e566e8588e6780628742898622b61"
+                                      },
+                                      "creation": {
+                                          "access_user_id": null,
+                                          "date": "2020-08-20T16:28:40+0000"
+                                      },
+                                      "name": "Hennig-Cardinal von Widdern,Clar",
+                                      "club": "Verein Pffrd. Dachau e.V.",
+                                      "rider_nation": {
+                                          "iso_code": "DE",
+                                          "flag_image": "https://assets.clipmyhorse.tv/img/player_flags/35.gif"
+                                      },
+                                      "top_banner": null
+                                  },
+                                  "head_number": "550",
+                                  "long_leader": {
+                                      "name": null
+                                  }
+                              }
+                          }
+                      }
+                  ]
+              }
+          }
+      }
+  }
+]

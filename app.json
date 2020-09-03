@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "CMH Client",
+    "slug": "cmh-client",
+    "privacy": "public",
+    "sdkVersion": "38.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/cmh_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#090F17"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "de.clipmyhorse.mobile",
+      "backgroundColor": "#090F17"
+    },
+    "android": {
+      "package": "de.clipmyhorse.tv"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#090F17"
+    },
+    "androidNavigationBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#090F17"
+    }
+  }
+}
